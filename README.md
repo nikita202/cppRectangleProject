@@ -1,2 +1,3 @@
 # cppRectangleProject
-Project for calculating a rectangle area and perimeter of its sides
+Test project to calculate area and perimeter of a rectangle in a number of ways
+
